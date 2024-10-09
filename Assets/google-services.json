@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950190654021",
+    "project_id": "hampton2-a2782",
+    "storage_bucket": "hampton2-a2782.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950190654021:android:b75c805bfa5f2da6a0d92c",
+        "android_client_info": {
+          "package_name": "com.KingstonUniversity.HamptonCourt_V2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlVNtVvd87pl7KoCcazAG3bI3q4t4DJaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

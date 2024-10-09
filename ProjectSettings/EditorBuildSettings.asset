@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 986756f8f3a0f3940a295d618788be0a
+  - enabled: 1
+    path: Assets/Scenes/ARNavigation.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/VRNavigation.unity
+    guid: a8449466c0158d147976a30035f34378
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 1e5b53611f89c514b8bf5875f9c39d71,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 4d6aa6dd0fcb94a49b606808d4abd1fd,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: ac9292ae268a81c438cc3a71b58a4929,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e189f147b3cff7b4daf8bf209dd8a3f7,
+      type: 2}
